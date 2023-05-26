@@ -8,7 +8,7 @@ app.get("/notes", function(req,res){
    res.json(db)
 })
 
-app.get("/notes", function(req,res){
+app.post("/notes", function(req,res){
     const data = {
         title: req.body.title,
         text: req.body.text,
