@@ -2,6 +2,8 @@
 
 LIVE URL:
 
+https://melwang1.github.io/notetakermel/
+
 ABOUT
 - Create a note taker for a small business ower that tracks tasks that need to be completed and can be saved
 
