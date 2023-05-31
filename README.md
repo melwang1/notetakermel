@@ -2,8 +2,8 @@
 
 LIVE URL:
 
-https://notetakermel.herokuapp.com/
-https://melwang1.github.io/notetakermel/
+[https://notetakermel.herokuapp.com/
+https://melwang1.github.io/notetakermel/](https://notetakermel.herokuapp.com/)
 
 ABOUT
 - Create a note taker for a small business ower that tracks tasks that need to be completed and can be saved
